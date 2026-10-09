@@ -137,9 +137,6 @@ The diagrams illustrate:
 
 ## Files
 
-- `student-project-approval.bpmn` — Student Project Approval System
-- `loan-approval-process.bpmn` — Loan Origination & Approval System
+- `Mohammad Zayaan_StudentProjectApproval.bpmn` — Student Project Approval System
+- `Mohammad Zayaan_Loan Origination & Approval System.bpmn` — Loan Origination & Approval System
 
-Open the `.bpmn` files in Camunda 8 Modeler to inspect the process diagrams.
-
-> **Note:** The diagrams describe BPMN workflow structure. Executing them in Camunda 8 may additionally require configured forms, DMN decisions, message definitions and correlation keys, timer settings, and workers for service-task job types.
